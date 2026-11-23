@@ -1,16 +1,13 @@
-## Hi there 👋
+## hi, bighustleo here 👋
 
-<!--
-**bighustleo/bighustleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting smooth cross-platform mobile apps with Flutter & React Native. Based in Hong Kong.
 
-Here are some ideas to get you started:
+- reach me at **@bighustleo** on GitHub
+- currently deep in fluid animations
+- learning React Native the slow way
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=bighustleo&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bighustleo&hide_border=true&theme=gruvbox" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/TypeScript-2dd4bf?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Flutter-2dd4bf?style=for-the-badge&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Firebase-2dd4bf?style=for-the-badge&logoColor=white" alt="Firebase" />
